@@ -5,7 +5,7 @@ public class Lab {
      * number.
      *
      * You will need to access every element of the array and change them, one by one. For this type of
-     * problem, it will be best to use a for loop. To start, the general structure of such a for loop would be
+     * problem, it will be best totri use a for loop. To start, the general structure of such a for loop would be
      *
      * for(int i = 0; i < arr.length; i++){
      *     //code here
@@ -23,6 +23,10 @@ public class Lab {
      * @return nothing, because of pass-by-reference, all changes will be reflected in the original array.
      */
     public void set(int[] arr, int n){
+        for(int i = 0; i < arr.length; i++) {
+        arr[i] = n;
+        
+        }     
+        }}
+    
 
-    }
-}

@@ -4,6 +4,7 @@ public class Application {
     /**
      * This class contains a main method that allows you to manually test the setAllArrayElementsToN challenge.
      * No changes you make here affect the test case results. You must still run & pass the test cases.
+     * Labbbbb
      * All implementation code should be written in the Lab class.
      *
      * The Lab.set method should set all the elements of an Array to some number.
